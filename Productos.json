@@ -1,0 +1,25 @@
+{  
+   "productos":[  
+      {  
+         "codigo_barras":"648795213589",
+         "nombre":"Manzana",
+         "cantidad":"2",
+         "marca":"Golden",
+         "precio":"5,50€"
+      },
+      {  
+         "codigo_barras":"589342785618",
+         "nombre":"Platano",
+         "cantidad":"4",
+         "marca":"Canario",
+         "precio":"7,30€"
+      },
+      {  
+         "codigo_barras":"416152289452",
+         "nombre":"Kiwi",
+         "cantidad":"3",
+         "marca":"Zespri",
+         "precio":"4,30€"
+      }
+   ]
+}
